@@ -1,1 +1,4 @@
-# Boiko_Sindiukova_1056_Project3
+# SCAFFOLD
+ 
+Our TRAA website scaffold consisting of PSD
+files, HTML and CSS files

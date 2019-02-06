@@ -1,0 +1,107 @@
+@charset "utf-8";
+/*CSS document*/
+
+.hidden
+{
+	display: none;
+}
+#container{
+	width: 960px;
+	margin: 0 auto;
+	background-color: #c5c5c5;
+}
+#topHeader{
+	height: 380px;
+	display: flex;
+	flex-direction: row;
+}
+#name{
+	width: 326px;
+	height: 100px;
+	background-color: black;
+	margin-top: 47px;
+	margin-left: 35px;
+}
+#logo{
+	width: 170px;
+	height: 150px;
+	background-color: black;
+	margin-left: 40px;
+}
+#socialMedia{
+	width: 235px;
+	height: 50px;
+	background-color: black;
+	margin-top: 47px;
+	margin-left: 122px;
+}
+#navCon{
+	height: 50px;
+	background-color: black;
+}
+#promoCon1{
+	height: 240px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 50px;
+}
+#featureImageBig{
+	width: 500px;
+	background-color: black;
+}
+#featureImageSmall1{
+	width: 240px;
+	background-color: black;
+	margin-left: 20px;
+}
+#promoCon2{
+	height: 240px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 20px;
+}
+.promo{
+	width: 240px;
+	background-color: black;
+}
+.space{
+	margin-left: 20px;
+}
+#mainFooter{
+	height: 170px;
+	background-color: black;
+	margin-top: 50px;
+}
+/*-------------------PROJECTS PAGE---------------------*/
+#title{
+	height: 40px;
+	width: 540px;
+	background-color: black;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+#projectFirst{
+	height: 240px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 50px;
+}
+.projectOther{
+	height: 240px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 20px;
+}
+.projectImg{
+	width: 500px;
+	background-color: black;
+}
+.projectText{
+	width: 240px;
+	background-color: black;
+	margin-left: 20px;
+}
